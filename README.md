@@ -19,7 +19,7 @@ There are 3 files in this project for model scripting:
 - 'inference.py' is the script for the deployed model endpoint to start inference on an image.
 
 
-## How to query the endpoint**
+## How to query the endpoint
 
 ```python
 img = Image.open('test_img.jpg').convert('RGB')
